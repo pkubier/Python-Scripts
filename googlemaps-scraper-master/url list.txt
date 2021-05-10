@@ -1,0 +1,14 @@
+https://www.google.com/maps/place/University+of+Central+Oklahoma/@35.657506,-97.4731378,17z/data=!4m7!3m6!1s0x87af4df09b319dbd:0xf0093f3eea20bcf8!8m2!3d35.657506!4d-97.4709491!9m1!1b1
+https://www.google.com/maps/place/Liberal+Arts+Building/@35.657506,-97.4731378,17z/data=!4m16!1m8!3m7!1s0x87af4df09b319dbd:0xf0093f3eea20bcf8!2sUniversity+of+Central+Oklahoma!8m2!3d35.657506!4d-97.4709491!9m1!1b1!3m6!1s0x87b21fb98781068d:0x78e9ce1287900215!8m2!3d35.6565188!4d-97.4689201!9m1!1b1
+https://www.google.com/maps/place/Transformative+Learning+Quadrangle+(The+Quad)/@35.657506,-97.4731378,17z/data=!4m16!1m8!3m7!1s0x87af4df09b319dbd:0xf0093f3eea20bcf8!2sUniversity+of+Central+Oklahoma!8m2!3d35.657506!4d-97.4709491!9m1!1b1!3m6!1s0x87b21fb7627d6a71:0x822f77d6368ce973!8m2!3d35.6578765!4d-97.4709928!9m1!1b1
+https://www.google.com/maps/place/Murdaugh+Hall/@35.657506,-97.4731378,17z/data=!4m7!3m6!1s0x87b21f497fa3a0b7:0x4150bc6b4a08fb48!8m2!3d35.6573436!4d-97.4726062!9m1!1b1
+https://www.google.com/maps/place/Old+North+Tower+(University+of+Central+Oklahoma)/@35.657506,-97.4731378,17z/data=!4m7!3m6!1s0x87b21fb24f1f5ab5:0x34b37be6adc45e56!8m2!3d35.6567765!4d-97.4737448!9m1!1b1
+https://www.google.com/maps/place/Max+Chambers+Library/@35.657506,-97.4731378,17z/data=!4m7!3m6!1s0x87b21fc82bb6c647:0x736b861cb16da63a!8m2!3d35.6582829!4d-97.4736723!9m1!1b1
+https://www.google.com/maps/place/Tutoring+Central/@35.657506,-97.4731378,17z/data=!4m7!3m6!1s0x87b21fb70caff3ab:0x23ae0a1bf03d8ffc!8m2!3d35.6585695!4d-97.4720255!9m1!1b1
+https://www.google.com/maps/place/Hamilton+Field+House/@35.657506,-97.4731378,17z/data=!4m7!3m6!1s0x87b21fb793978711:0x681786bec7e60f84!8m2!3d35.6601206!4d-97.4715326!9m1!1b1
+https://www.google.com/maps/place/UCO+Wellness+Center/@35.657506,-97.4731378,17z/data=!4m7!3m6!1s0x87b21fb6241d4219:0xcd2995c58e807a41!8m2!3d35.6612696!4d-97.4742289!9m1!1b1
+https://www.google.com/maps/place/Wantland+Stadium/@35.661505,-97.4729562,17z/data=!4m7!3m6!1s0x87b21fb76d9bd285:0x8c9c480878b2c5c1!8m2!3d35.661505!4d-97.4707675!9m1!1b1
+https://www.google.com/maps/place/Bausher+Place/@35.6591563,-97.4731972,17.25z/data=!4m7!3m6!1s0x87b21f4b1b453bc1:0xd70c61e5456e20d3!8m2!3d35.6590708!4d-97.4717331!9m1!1b1
+https://www.google.com/maps/place/Center+for+Transformative+Learning/@35.6577932,-97.4728715,17z/data=!4m7!3m6!1s0x0:0x84bde00a5ddc3927!8m2!3d35.6561243!4d-97.4697154!9m1!1b1
+https://www.google.com/maps/place/The+Language+Company-Edmond/@35.6577932,-97.4728715,17z/data=!4m5!3m4!1s0x0:0x82b63d4998635817!8m2!3d35.6578803!4d-97.4709928
+https://www.google.com/maps/place/UCentral+Media/@35.6569483,-97.4729227,17.75z/data=!4m7!3m6!1s0x87b21fb743c1fd93:0x458be8a33624de9f!8m2!3d35.6573611!4d-97.4715433!9m1!1b1
