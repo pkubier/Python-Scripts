@@ -8,10 +8,10 @@ import re
 import string
 import preprocessor as p
  
-consumer_key = 'XvpmY31XAsLLlm81p2RwttmcH'
-consumer_secret = 'bcIYA6eT6eK2RadGyeMMXQyU4CxOSBXJFeBLpsAjRujmvXz3LX'
-access_key = '1364986467580334092-EcXU6ODBSJMXfn3dMrZ0CklLLRrOGp'
-access_secret = 'ATRv40VVDzr9FToAH01hoSKMOu7nxJ1xImyrV50BpS6sW'
+consumer_key = key
+consumer_secret = secret
+access_key = 'key'
+access_secret = secret
  
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
