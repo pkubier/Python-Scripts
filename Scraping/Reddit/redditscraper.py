@@ -4,10 +4,10 @@ import pandas as pd
 import datetime as dt
 
 reddit = praw.Reddit(client_id='bojiXmJKJFIRZA', \
-                     client_secret='LMPva-WqecOZ9z2hOmEdTIszxBm_sg', \
+                     client_secret='', \
                      user_agent='YOUR_APP_NAME', \
-                     username='greenirishsaint', \
-                     password='4ZYfX6L0H03f')
+                     username='', \
+                     password='')
 
 subreddit = reddit.subreddit('UCO')
 top_subreddit = subreddit.top(limit=500)
